@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdevtest"
+  site-url: "https://erikdrouhard.github.io/nbdevtest"
+  description: "nbdev solveit test"
+  repo-branch: main
+  repo-url: "https://github.com/erikdrouhard/nbdevtest"
